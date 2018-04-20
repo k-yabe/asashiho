@@ -22,4 +22,3 @@ Let's Try 機械学習で遊ぼう
 ## マイナビ公式サイト
 > https://book.mynavi.jp/manatee/detail/id=65673
 >
-# asashiho
